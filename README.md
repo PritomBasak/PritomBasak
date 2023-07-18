@@ -1,8 +1,7 @@
-(https://techkunda.com/wp-content/uploads/2022/02/Future-scope-of-challenging-course-Computer-science-engineering.png)
-
 ### Hi there 👋, my name is Pritom Basak
 #### I am Web Developer, UI Designer, machine Learning Engineer.
-![I am Web Developer, UI Designer, machine Learning Engineer.]
+![I am Web Developer, UI Designer, machine Learning Engineer.](https://techkunda.com/wp-content/uploads/2022/02/Future-scope-of-challenging-course-Computer-science-engineering.png)
+
 I am a versatile and driven individual with expertise in multiple domains, including web development, UI design, and machine learning engineering. 
 As a web developer, I possess a deep understanding of front-end technologies, allowing me to create dynamic and interactive websites that meet clients' needs. 
 
